@@ -1,3 +1,5 @@
+Works with UTF-8 textfiles, uses coroutines
+
 Overview
 ========
 
